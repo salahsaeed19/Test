@@ -20,6 +20,7 @@ A comprehensive task management application developed with Django, intended to h
 - **Python Version**: Python 3.12.6
 
 
+
 ## Project Structure
 
 ```
