@@ -2,6 +2,7 @@
 
 A comprehensive task management application developed with Django, intended to help users efficiently manage and track their tasks. This project provides a backend API using Django REST Framework for CRUD operations on tasks, with a dedicated admin interface for management.
 
+
 ## Features
 
 - **Task Creation**: Users can create tasks with a title, description, due date, and priority level.
@@ -10,6 +11,7 @@ A comprehensive task management application developed with Django, intended to h
 - **Task Listing**: View all tasks, with support for filtering and sorting by priority and due date.
 - **Django Admin Interface**: Admins have access to manage tasks through a user-friendly interface.
 - **API Endpoints**: Built using Django REST Framework to facilitate programmatic interaction with tasks.
+
 
 ## Technologies Used
 
