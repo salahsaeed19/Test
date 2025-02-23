@@ -11,7 +11,6 @@ A comprehensive task management application developed with Django, intended to h
 - **Django Admin Interface**: Admins have access to manage tasks through a user-friendly interface.
 - **API Endpoints**: Built using Django REST Framework to facilitate programmatic interaction with tasks.
 
-
 ## Technologies Used
 
 - **Backend**: Django 5.1.3
