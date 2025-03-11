@@ -4,7 +4,6 @@ A comprehensive task management application developed with Django, intended to h
 
 ## Features
 
-
 - **Task Creation**: Users can create tasks with a title, description, due date, and priority level.
 - **Task Update**: Allows updating of task details, including title, description, due date, completion status, and priority.
 - **Task Deletion**: Remove tasks that are no longer needed.
