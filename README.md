@@ -1,5 +1,4 @@
-# Task Management Applic
-ation
+# Task Management Application
 
 A comprehensive task management application developed with Django, intended to help users efficiently manage and track their tasks. This project provides a backend API using Django REST Framework for CRUD operations on tasks, with a dedicated admin interface for management.
 
