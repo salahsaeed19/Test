@@ -4,7 +4,6 @@ A comprehensive task management application developed with Django, intended to h
  
 ## Feat
 
-
 ures
 
 - **Task Creation**: Users can create tasks with a title, description, due date, and priority level.
