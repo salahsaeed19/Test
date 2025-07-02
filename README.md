@@ -107,7 +107,7 @@ Follow these steps to set up the project on your local machine:
 
 ## Contributing
 
-Feel free to fork this repository, make improvements, and submit pull requests. Contributions are welcome.
+You can fix this repository, make improvements, and submit pull requests. Contributions are welcome.
 
 ## License
 
