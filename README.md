@@ -5,8 +5,7 @@ Application
 
 A comprehensive task management application developed with Django, intended to help users efficiently manage and track their tasks. This project provides a backend API using Django REST Framework for creating, reading, updating, and deleting (CRUD) operations on functions, along with a dedicated admin interface for management.
 
-#
-# Features
+## Features
 
 - **Task Creation**: Users can create tasks with a title, description, due date, and priority level.
 - **Task Update**: Allows updating of task details, including title, description, due date, completion status, and priority.
