@@ -105,8 +105,7 @@ Follow these steps to set up the project on your local machine:
 - `PUT /api/tasks/{id}/`: Update an existing task.
 - `DELETE /api/tasks/{id}/`: Delete a task.
 
-## 
-Contributing
+## Contributing
 
 You can fix this repository, make improvements, and submit pull requests. Contributions are welcome.
 
