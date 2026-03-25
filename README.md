@@ -97,8 +97,7 @@ Follow these steps to set up the project on your local machine:
 8. **Access the app in your browser:**
    Open your browser and go to `http://127.0.0.1:8000` to access the task management API. For the Django admin interface, go to `http://127.0.0.1:8000/admin` and log in with the superuser credentials.
 
-## 
-API Endpoints
+## API Endpoints
 
 - `GET /api/tasks/`: List all tasks.
 - `POST /api/tasks/`: Create a new task.
