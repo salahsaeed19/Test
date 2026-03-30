@@ -11,7 +11,8 @@ A comprehensive task management application developed with Django, intended to h
 - **Django Admin Interface**: Admins have access to manage tasks through a user-friendly interface.
 - **API Endpoints**: Built using Django REST Framework to facilitate programmatic interaction with tasks.
 
-## Technologies Used
+## 
+Technologies Used
 
 - **Backend**: Django 5.1.3
 - **API Framework**: Django REST Framework
@@ -19,7 +20,8 @@ A comprehensive task management application developed with Django, intended to h
 - **Admin Interface**: Django Admin
 - **Python Version**: Python 3.12.6
 
-## Project Structure
+## 
+Project Structure
 
 ```
 task_manager/
@@ -40,18 +42,21 @@ task_manager/
 └── db.sqlite3
 ```
 
-## Getting Started
+## 
+Getting Started
 
 Follow these steps to set up the project on your local machine:
 
-## Prerequisites
+## 
+Prerequisites
 
 - Python 3.12.6
 - Django 5.1.3
 - Django REST Framework
 - SQLite (or an alternative database)
 
-## Installation
+## 
+Installation
 
 1. **Clone the repository:**
    ```bash
