@@ -1,8 +1,12 @@
-# Task Management Application
+# 
+Task 
+Management 
+Application
 
 A comprehensive task management application developed with Django, intended to help users efficiently manage and track their tasks. This project provides a backend API using Django REST Framework for creating, reading, updating, and deleting (CRUD) operations on functions, along with a dedicated admin interface for management.
 
-## Features
+## 
+Features
 
 - **Task Creation**: Users can create tasks with a title, description, due date, and priority level.
 - **Task Update**: Allows updating of task details, including title, description, due date, completion status, and priority.
@@ -102,7 +106,8 @@ Installation
 9. **Access the app in your browser:**
    Open your browser and go to `http://127.0.0.1:8000` to access the task management API. For the Django admin interface, go to `http://127.0.0.1:8000/admin` and log in with the superuser credentials.
 
-## API Endpoints
+## 
+API Endpoints
 
 - `GET /api/tasks/`: List all tasks.
 - `POST /api/tasks/`: Create a new task.
@@ -110,10 +115,12 @@ Installation
 - `PUT /api/tasks/{id}/`: Update an existing task.
 - `DELETE /api/tasks/{id}/`: Delete a task.
 
-## Contributing
+## 
+Contributing
 
 You can fix this repository, make improvements, and submit pull requests. Contributions are welcome.
 
-## License
+## 
+License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
