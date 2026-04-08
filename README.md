@@ -67,7 +67,7 @@ Follow these steps to set up the project on your local machine:
 3. **Activate the virtual environment:**
    - On Windows:
      ```bash
-     venv\Scriptsctivate
+     venv\Scripts\activate
      ```
    - On macOS/Linux:
      ```bash
