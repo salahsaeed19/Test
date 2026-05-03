@@ -54,8 +54,7 @@ Follow these steps to set up the project on your local machine:
 - Django REST Framework
 - SQLite (or an alternative database)
 
-## 
-Installation
+## Installation
 
 1. **Clone the repository:**
    ```bash
