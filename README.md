@@ -1,5 +1,4 @@
-# Task 
-Management 
+# Task Management 
 Application
 
 - **Task Creation**: Users can create tasks with a title, description, due date, and priority level.
