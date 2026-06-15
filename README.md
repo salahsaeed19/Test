@@ -1,5 +1,4 @@
-# Task Management 
-Application
+# Task Management Application
 
 - **Task Creation**: Users can create tasks with a title, description, due date, and priority level.
 - **Task Update**: Allows updating of task details, including title, description, due date, completion status, and priority.
