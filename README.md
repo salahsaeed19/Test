@@ -19,8 +19,7 @@ A comprehensive task management application developed with Django, intended to h
 - **Admin Interface**: Django Admin
 - **Python Version**: Python 3.12.6
 
-## 
-Project Structure
+## Project Structure
 
 ```
 task_manager/
