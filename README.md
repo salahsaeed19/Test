@@ -50,8 +50,7 @@ Getting Started
 
 Follow these steps to set up the project on your local machine:
 
-## 
-Prerequisites
+## Prerequisites
 
 - Python 3.12.6
 - Django 5.1.3
