@@ -1,8 +1,12 @@
-# Task Management Application
+# 
+Task 
+Management 
+Application
 
 A comprehensive task management application developed with Django, intended to help users efficiently manage and track their tasks. This project provides a backend API using Django REST Framework for creating, reading, updating, and deleting (CRUD) operations on functions, along with a dedicated admin interface for management.
 
-## Features
+## 
+Features
 
 - **Task Creation**: Users can create tasks with a title, description, due date, and priority level.
 - **Task Update**: Allows updating of task details, including title, description, due date, completion status, and priority.
@@ -11,7 +15,8 @@ A comprehensive task management application developed with Django, intended to h
 - **Django Admin Interface**: Admins have access to manage tasks through a user-friendly interface.
 - **API Endpoints**: Built using Django REST Framework to facilitate programmatic interaction with tasks.
 
-## Technologies Used
+## 
+Technologies Used
 
 - **Backend**: Django 5.1.3
 - **API Framework**: Django REST Framework
@@ -19,7 +24,8 @@ A comprehensive task management application developed with Django, intended to h
 - **Admin Interface**: Django Admin
 - **Python Version**: Python 3.12.6
 
-## Project Structure
+## 
+Project Structure
 
 ```
 task_manager/
@@ -40,11 +46,13 @@ task_manager/
 └── db.sqlite3
 ```
 
-## Getting Started
+## 
+Getting Started
 
 Follow these steps to set up the project on your local machine:
 
-## Prerequisites
+## 
+Prerequisites
 
 - Python 3.12.6
 - Django 5.1.3
